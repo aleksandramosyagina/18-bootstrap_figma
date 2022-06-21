@@ -1,0 +1,55 @@
+.header {
+    min-height: 15vh;
+}
+
+.bi-bucket-fill {
+    margin-left: 10px;
+}
+
+.form-control {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card__rectangle {
+    background-image: url("/assets/images/rectangle.jpg");
+}
+
+.main__h1 {
+    margin-left: 100px;
+    font-weight: bold;
+}
+
+.card-title {
+    font-weight: bolder;
+}
+
+.card-title_white {
+    color: white;
+}
+
+.card {
+    border: none;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.navbar-brand {
+    margin-left: 50px;
+}
+
+.navbar__footer {
+    margin-left: 100px;
+    min-height: 15vh;
+}
+
+.nav-link {
+    padding-top: 30px;
+    color: gray;
+}
+
+.btn {
+    border-radius: 50px;
+}

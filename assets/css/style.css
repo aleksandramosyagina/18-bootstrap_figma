@@ -1,0 +1,52 @@
+.header {
+    margin-top: 15px;
+    min-height: 5vh;
+}
+
+.logo {
+    margin-left: 50px;
+}
+
+.bi-bucket-fill {
+    margin-left: 10px;
+}
+
+.main {
+    min-height: 70vh;
+}
+
+.main__h1 {
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.main__text {
+    inset-block-start: 50px;
+    inset-inline-start: 100px;
+}
+
+.nav-link {
+    color: gray;
+
+}
+
+.main__background {
+    height: 85vh;
+}
+
+.navbar__footer {
+    position: fixed;
+    inset-block-end: 0;
+    inset-inline-start: 100px;
+}
+
+.btn {
+    border-radius: 50px;
+}
+
+.main__button {
+    width: 200px;
+    height: 50px;
+    font-size: x-large;
+    font-weight: bolder;
+}
